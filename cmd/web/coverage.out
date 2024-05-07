@@ -1,0 +1,12 @@
+mode: set
+github.com/ankitbhatt10050/bookings/cmd/web/main.go:24.13,26.16 2 0
+github.com/ankitbhatt10050/bookings/cmd/web/main.go:26.16,28.3 1 0
+github.com/ankitbhatt10050/bookings/cmd/web/main.go:33.2,42.16 4 0
+github.com/ankitbhatt10050/bookings/cmd/web/main.go:45.18,59.16 10 1
+github.com/ankitbhatt10050/bookings/cmd/web/main.go:59.16,62.3 2 0
+github.com/ankitbhatt10050/bookings/cmd/web/main.go:63.2,71.12 6 1
+github.com/ankitbhatt10050/bookings/cmd/web/middleware.go:10.53,12.71 1 0
+github.com/ankitbhatt10050/bookings/cmd/web/middleware.go:12.71,16.3 2 0
+github.com/ankitbhatt10050/bookings/cmd/web/middleware.go:19.45,30.2 3 1
+github.com/ankitbhatt10050/bookings/cmd/web/middleware.go:32.50,34.2 1 1
+github.com/ankitbhatt10050/bookings/cmd/web/routes.go:13.49,44.2 18 1
